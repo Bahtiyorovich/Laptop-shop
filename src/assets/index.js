@@ -1,0 +1,5 @@
+export {default as laptop1} from './laptop1.jpg'
+export {default as laptop2} from './laptop2.jpg'
+export {default as laptop3} from './laptop3.jpg'
+export {default as laptop4} from './laptop4.jpg'
+export {default as Logo} from './logo.svg'
